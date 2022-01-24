@@ -22,3 +22,16 @@ body{
 .price-card{
     border-radius: 15px;
 }
+.background-contact{
+    background-color: #e4f5ff;
+}
+.contact-padding{
+    padding: 120px 0;
+}
+.form-customize{
+    width: 400px;
+    height: 40px;
+}
+.icon-padding{
+    padding: 2px 0;
+}
