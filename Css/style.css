@@ -5,6 +5,7 @@ body{
     background-color: #E5E5E5;
     font-family: 'Poppins', sans-serif;
 }
+/* slider height added */
 .slider-height{
     max-height:550px ;
 }
@@ -49,5 +50,5 @@ body{
 /* toast customize  */
 .toast-style{
     z-index: 1;
-    width: 300px;
+    width: 250px;
 }
