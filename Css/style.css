@@ -36,3 +36,7 @@ body{
 .link-size{
     padding: 8px 0;
 }
+.toast-style{
+    z-index: 1;
+    width: 300px;
+}
