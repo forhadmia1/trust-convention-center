@@ -1,11 +1,24 @@
 /* google fonts import here  */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Roboto&display=swap');
+body{
+    background-color: #E5E5E5;
+}
 .hot-radius{
     border-radius: 20px;
 }
 .hot-position{
     left: 250px;
 }
+.hot-price-bg{
+    background-color: #50DBB4;
+}
 .slider-height{
     height: 550px;
+}
+.price-btn-bg{
+    background-color: rgba(244, 149, 209, 0.2);
+    border-radius: 24px;
+}
+.price-card{
+    border-radius: 15px;
 }
