@@ -1,20 +1,28 @@
 /* google fonts import here  */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Roboto&display=swap');
+/* common style  */
 body{
     background-color: #E5E5E5;
     font-family: 'Poppins', sans-serif;
 }
+.slider-height{
+    max-height:550px ;
+}
+/* price card 3 coutomize  */
 .hot-radius{
     border-radius: 20px;
 }
 .hot-position{
-    left: 250px;
+    left: 220px;
+}
+.price-width{
+    width: 270px;
+}
+.hot-price-width{
+    width: 300px;
 }
 .hot-price-bg{
     background-color: #50DBB4;
-}
-.slider-height{
-    max-height: 550px;
 }
 .price-btn-bg{
     background-color: rgba(244, 149, 209, 0.2);
@@ -23,6 +31,8 @@ body{
 .price-card{
     border-radius: 15px;
 }
+
+/* contact sec customize  */
 .background-contact{
     background-color: #e4f5ff;
 }
@@ -30,12 +40,13 @@ body{
     padding: 120px 0;
 }
 .form-customize{
-    width: 250px;
+    width: 200px;
     height: 40px;
 }
 .link-size{
     padding: 8px 0;
 }
+/* toast customize  */
 .toast-style{
     z-index: 1;
     width: 300px;
