@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Roboto&display=swap');
 body{
     background-color: #E5E5E5;
+    font-family: 'Poppins', sans-serif;
 }
 .hot-radius{
     border-radius: 20px;
@@ -13,7 +14,7 @@ body{
     background-color: #50DBB4;
 }
 .slider-height{
-    height: 550px;
+    max-height: 550px;
 }
 .price-btn-bg{
     background-color: rgba(244, 149, 209, 0.2);
@@ -29,9 +30,9 @@ body{
     padding: 120px 0;
 }
 .form-customize{
-    width: 400px;
+    width: 250px;
     height: 40px;
 }
-.icon-padding{
-    padding: 2px 0;
+.link-size{
+    padding: 8px 0;
 }
